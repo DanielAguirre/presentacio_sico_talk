@@ -1,0 +1,11 @@
+{
+  "name": "scio_talk",
+  "version": "1.0.0",
+  "description": "Presentacion de la platica de Javascript para la platica en sio consulting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Alejandro Aguirre Linares",
+  "license": "ISC"
+}
